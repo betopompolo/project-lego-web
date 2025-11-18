@@ -526,7 +526,6 @@ class CompiledApp {
       _1442: Object.is,
       _1443: o => o instanceof Array,
       _1444: (a, i) => a.push(i),
-      _1445: (a, i) => a.splice(i, 1)[0],
       _1448: a => a.pop(),
       _1449: (a, i) => a.splice(i, 1),
       _1450: (a, s) => a.join(s),
